@@ -9,7 +9,7 @@ Say we have a Binary Tree e.g.
           /   \
         5       2
 
-Return the sum of all numbers represnted by a path root to leaf, so for this, the answer is 15 + 12 = 27.
+Return the sum of all numbers represented by a path root to leaf, so for this, the answer is 15 + 12 = 27.
 
 The three solutions I give use BFS, DFS with recursion, and DFS iteratively.
 
